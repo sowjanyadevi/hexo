@@ -72,6 +72,6 @@ deploy:
   repo: https://github.com/sowjanyadevi/hexo_static.git
   branch: master
 - type: heroku
-  repo: https://git.heroku.com/agile-castle-91746.git
+  repo:  https://git.heroku.com/immense-garden-42707.git
   message: deployment hexo to heroku
 
