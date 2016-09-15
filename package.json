@@ -16,6 +16,6 @@
     "url": "https://github.com/sowjanyadevi/hexo/issues"
   },
   "scripts": {
-   "start": "node index.js"
+   "start": "index.js"
   }
 }
