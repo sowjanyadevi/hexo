@@ -8,15 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sowjanyadevi/hexo.git"
+    "url": "https://github.com/sowjanyadevi/hexo.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/sowjanyadevi/hexo/issues"
   },
-  "homepage": "https://github.com/sowjanyadevi/hexo#readme"
-"scripts": {
-"start": "node index.js"
-}
+  "scripts": {
+   "start": "node index.js"
+  }
 }
